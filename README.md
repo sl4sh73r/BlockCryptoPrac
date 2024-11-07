@@ -9,7 +9,7 @@ This is my project, which provides the functionality of encrypting and decryptin
 1. Clone the repository:
 
 ```
-    git clone https://github.com/sl4sh73r/-----------
+    git clone https://github.com/sl4sh73r/BlockCryptoPrac
 ```
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ The application is now available at `http://localhost:3000`.
 1. Clone the repository:
 
 ```
-    git clone https://github.com/sl4sh73r/-----------
+    git clone https://github.com/sl4sh73r/BlockCryptoPrac
 ```
 
 2. Navigate to the project directory:
@@ -78,7 +78,7 @@ The application is now available at `http://localhost:3000`.
 1. 克隆仓库：
 
 ```
-    git clone https://github.com/sl4sh73r/-----------
+    git clone https://github.com/sl4sh73r/BlockCryptoPrac
 ```
 
 2. 导航到项目目录：
@@ -106,7 +106,7 @@ The application is now available at `http://localhost:3000`.
 1. 克隆仓库：
 
 ```
-    git clone https://github.com/sl4sh73r/-----------
+    git clone https://github.com/sl4sh73r/BlockCryptoPrac
 ```
 
 2. 导航到项目目录：
